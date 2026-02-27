@@ -1,6 +1,6 @@
 # 🐝 La Guerre du Nectar : Bzzz !
 
-Bienvenue dans le jeu **Bzzz**, un jeu de stratégie au tour par tour développé en Python[cite: 2]. [cite_start]Quatre colonies d'abeilles s'affrontent sur un plateau pour récolter le précieux nectar, gérer leurs ressources et défendre leur territoire.
+Bienvenue dans le jeu **Bzzz**, un jeu de stratégie au tour par tour développé en Python. Quatre colonies d'abeilles s'affrontent sur un plateau pour récolter le précieux nectar, gérer leurs ressources et défendre leur territoire.
 
 ---
 
